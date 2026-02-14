@@ -766,28 +766,3 @@ SECRET_KEY=your-secret-key-here
 YOUTUBE_API_KEY=your-youtube-api-key
 ```
 
-## 15. MVP Feature Priority
-
-### Phase 1 (Core - Day 1-2)
-1. User auth (register, login)
-2. YouTube video processing
-3. Basic course structure (topics, outline)
-4. Simple quiz generation
-5. Progress tracking
-
-### Phase 2 (Intelligence - Day 3-4)
-1. Concept extraction and embeddings
-2. Weakness detection
-3. Adaptive quiz generation
-4. Basic concept map visualization
-
-### Phase 3 (Polish - Day 5)
-1. UI improvements
-2. Error handling
-3. Demo data
-4. Presentation prep
-
----
-
-**Document Version**: 1.0 (Hackathon Edition)  
-**Focus**: Build fast, demo well, win hackathon

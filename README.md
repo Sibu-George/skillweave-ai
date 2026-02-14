@@ -312,12 +312,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - pgvector for efficient vector similarity search
 - The open-source community for amazing tools and libraries
 
-## 📧 Contact
-
-- **Project Link**: https://github.com/yourusername/skillweave
-- **Issues**: https://github.com/yourusername/skillweave/issues
-- **Discussions**: https://github.com/yourusername/skillweave/discussions
-
 ---
 
 Built with ❤️ for learners everywhere
